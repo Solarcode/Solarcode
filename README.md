@@ -1,1 +1,1 @@
-### I am a student at 42 Adelaide
+### Student at 42 Adelaide
